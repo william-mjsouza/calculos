@@ -32,6 +32,7 @@ public class CalculoService {
 		
 		int soma = 0;
 		for (int i = 0; i < lista.size(); i ++) {
+			
 			soma += lista.get(i);
 		}
 		
